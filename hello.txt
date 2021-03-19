@@ -1,4 +1,4 @@
-Hello. This is sample eg1. Changing 2nd time on master.
+Hello. This is sample eg1. Changing 2nd time on master. -- editing in origin.
 To check modification second time.
 
 
